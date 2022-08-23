@@ -281,6 +281,7 @@ footer {
 
 .footer__socials a {
   background: var(--color-gray-100);
+  display: flex;
   padding: 0.7rem;
   border: 1px solid transparent;
   border-radius: 0.6rem;
@@ -288,8 +289,6 @@ footer {
 }
 
 .footer__socials a svg {
-  display: flex;
-  align-items: center;
   color: var(--color-gray-600);
   font-size: 1.2rem;
 }
