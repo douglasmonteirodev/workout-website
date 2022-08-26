@@ -15,9 +15,9 @@
       <img src="src/images/preview/trainers.png">
  </p>
 
-## Informações:
+## Objetivo:
 
-### O objetivo desse projeto foi criar um site básico de treinos totalmente responsivo, o foco foi mais um impacto visual com imagens chamativas e funcionalidades simples mas bastante utéis.
+###  Foi criar um site básico de treinos totalmente responsivo, o foco foi mais um impacto visual com imagens chamativas e funcionalidades simples mas bastante utéis.
 
 ## Descrição
 
