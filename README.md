@@ -2,7 +2,7 @@
 
 ## <i>Projeto feito com React JS </i>
 
-## Link: https://bit.ly/3wwwrMt
+## Link: https://douglasmonteirodev.github.io/builds/workout-website/
 
 <p align="center">
       <img src="src/images/preview/home_preview.png">
@@ -17,7 +17,7 @@
 
 ## Objetivo:
 
-###  Foi criar um site básico de treinos totalmente responsivo, o foco foi mais um impacto visual com imagens chamativas e funcionalidades simples mas bastante utéis.
+### Foi criar um site básico de treinos totalmente responsivo, o foco foi mais um impacto visual com imagens chamativas e funcionalidades simples mas bastante utéis.
 
 ## Descrição
 
